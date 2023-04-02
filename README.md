@@ -1,3 +1,3 @@
 # LEADFISHER
 
-LeadFisher cross chat init
+LeadFisher workspace example
