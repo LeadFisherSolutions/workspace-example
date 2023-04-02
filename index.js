@@ -1,1 +1,1 @@
-console.log("Example work perfect")
+console.info('Example work perfect');
