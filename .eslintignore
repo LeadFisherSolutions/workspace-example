@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+.vscode
+
+#* Lock files
+pnpm-lock.yaml
+package-lock.yaml
+yarn.lock
