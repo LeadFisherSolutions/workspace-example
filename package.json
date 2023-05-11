@@ -9,7 +9,12 @@
   "type": "commonjs",
   "main": "index.js",
   "types": "index.d.ts",
-  "keywords": [],
+  "keywords": [
+    "workspace",
+    "example",
+    "leadfisher",
+    "javascript"
+  ],
   "scripts": {
     "test": "node --test && tsc",
     "dev": "node index.js",
