@@ -20,6 +20,12 @@
     "leadfisher",
     "javascript"
   ],
+  "browser": {},
+  "files": [
+    "/dist",
+    "/src",
+    "index.d.ts"
+  ],
   "scripts": {
     "test": "node --test && tsc",
     "dev": "node index.js",
