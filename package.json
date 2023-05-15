@@ -10,6 +10,11 @@
   "main": "index.js",
   "types": "index.d.ts",
   "keywords": [
+    "nodejs",
+    "zero-dependencies",
+    "prettier",
+    "eslint",
+    "ts",
     "workspace",
     "example",
     "leadfisher",
