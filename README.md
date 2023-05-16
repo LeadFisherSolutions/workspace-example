@@ -76,9 +76,10 @@ git commit -m "Repository init"
 git push origin main
 ```
 
-<h2 align="center">License & Contributors</h2>
+<h2 align="center">Copyright & contributors</h2>
 
 <p align="center">
-Copyright © 2023 Leadfisher contributors. workspace-example is MIT licensed.<br/>
-Workspace-example is starter-kit for all leadfisher repositories.
+Copyright © 2023 <a href="https://github.com/LeadFisherSolutions/workspace-example/graphs/contributors">Leadfisher contributors</a>.
+Leadwatch is <a href="./LICENSE">MIT licensed license</a>.<br/>
+Leadwatch is one of <a href="https://github.com/LeadFisherSolutions">leadfisher solutions</a>.
 </p>
