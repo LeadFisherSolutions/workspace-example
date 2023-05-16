@@ -80,6 +80,6 @@ git push origin main
 
 <p align="center">
 Copyright © 2023 <a href="https://github.com/LeadFisherSolutions/workspace-example/graphs/contributors">Leadfisher contributors</a>.
-Leadwatch is <a href="./LICENSE">MIT licensed license</a>.<br/>
+Leadwatch is <a href="./LICENSE">MIT licensed</a>.<br/>
 Leadwatch is one of <a href="https://github.com/LeadFisherSolutions">leadfisher solutions</a>.
 </p>
